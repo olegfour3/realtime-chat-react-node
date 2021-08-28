@@ -1,5 +1,5 @@
 
-#Realtime chat (Long polling)
+# Realtime chat (Long polling)
 
 ### Сервер
 #### Перед запуском укажите нужный файл поле "script" в package.json 
