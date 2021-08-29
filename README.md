@@ -10,3 +10,5 @@
 ### Клиент
 #### Перед запуском добавьте нужный компонент в App.jsx
 #### `npm start` - для запуска клиента
+
+![Image alt](https://github.com/olegfour3/realtime-chat-react-node/blob/main/Screenshot_1.png)
